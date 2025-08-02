@@ -1,0 +1,1 @@
+adServiceUrl = 'http://localhost:5002'

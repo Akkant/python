@@ -1,0 +1,9 @@
+langchain==0.3.25
+langchain_openai
+dotenv
+requests
+streamlit
+langgraph
+langchain_community
+pymongo
+langgraph.checkpoint.mongodb
